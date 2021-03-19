@@ -1,4 +1,4 @@
-# Supervised-project HEC Montréal "Exploration of machine Learning Methods: an Application to German Wholesale Electricity Market"
+# Supervised-project HEC Montréal "Exploration of machine Learning Methods: an Application to German Electricity Market"
 
 The objective of this project is to explore machine learning models using german electricity market data. 
 The data I used is coming from two sources : 1) ENTSOE for electricty market data, 2) DWD for weather data.
