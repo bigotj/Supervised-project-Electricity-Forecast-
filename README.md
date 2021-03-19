@@ -7,9 +7,9 @@ Ordinary Least Squares - in this notebook I fit a multivariate linear regression
 Then, I estimate two models for demand prediction and two models for price prediction.
 
 DEMAD PREDICTION :
-Random Forest -
-XGBoost - 
+Random Forest,
+XGBoost  
 
 PRICE PREDICTION :
-Logistic regression - 
-LSTM neural networks - 
+Logistic regression, 
+LSTM neural networks 
