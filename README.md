@@ -1,8 +1,8 @@
 # Supervised-project HEC Montréal "Exploration of machine Learning Methods: an Application to German Wholesale Electricity Market"
 
-The objective of this project is to explore machine learning models using german wholesale electricity market data. 
+The objective of this project is to explore machine learning models using german electricity market data. 
 The data I used is coming from two sources : 1) ENTSOE for electricty market data, 2) DWD for weather data.
-The dataset is available on GitHub. 
+Dataset available on GitHub. 
 
 I used Python Sickit Learn and Keras to train the models. The code is presented in jupyter Notebook format. 
 
@@ -18,5 +18,7 @@ XGBoost
 PRICE PREDICTION :
 Logistic regression, 
 LSTM neural networks 
+
+RESULTS:
 
 
