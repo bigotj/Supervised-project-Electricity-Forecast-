@@ -11,7 +11,7 @@ There is five notebooks containing the following models:
 Ordinary Least Squares - in this notebook I fit a multivariate linear regression to predict demand and day ahead price and to evaluate what it is possible to do with a simple statistical model.
 Then, I estimate two models for demand prediction and two models for price prediction.
 
-DEMAD PREDICTION :
+DEMAND PREDICTION :
 Random Forest,
 XGBoost  
 
